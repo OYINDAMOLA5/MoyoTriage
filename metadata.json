@@ -1,0 +1,5 @@
+{
+  "name": "MoyoTriage",
+  "description": "A medical triage assistant for Community Health Volunteers (CHVs) in rural West Africa.",
+  "requestFramePermissions": []
+}
